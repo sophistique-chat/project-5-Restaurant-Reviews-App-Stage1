@@ -12,7 +12,7 @@
 | Data Folder | Udacity supplied | /data/restaurants.json |
 | JS | Service Worker File | sw.js |
 | JS | Manifest File | manifest.json |
-| Image | Icon Files | favicon.png, icon.jpeg |
+| Image | Icon Files | favicon.png, icon.jpg |
 
 ----
 ## **Requirements:**
@@ -48,7 +48,12 @@ Make the provided site fully responsive by implementing:
 **The code was tested to the best of project author's ability using:**
 - Browsers: Google Chrome, Google Chrome Canary and Opera;
 - Mobile devices: Android powered, 4.8 & 5.0 inch screens.
- - **That does not unfortunately guarantee that your device will display things as expected**
+- Accessibility check extentions used:
+  - WCAG Accessibility Audit Developer UI;
+  - WCAG Contrast Checker;
+  - Accessibility Dev Tools for Google Chrome;
+  - High Contrast;
+- **That does not unfortunately guarantee that your device will display things as expected**
 ----
 
 ----
@@ -63,6 +68,7 @@ Make the provided site fully responsive by implementing:
 ## **Useful Sources:**
 ----
 - [Service Worker Cookbook]
+- [ARIA]
 - [Stackoverflow]
 - [W3Schools]
 - [MDN]
@@ -76,6 +82,7 @@ _Developed by a proud Grow with Google scholarship recipient (USA, 2018)_
 
 ----
 [Udacity guide]: <https://github.com/udacity/mws-restaurant-stage-1/blob/master/README.md>
+[ARIA]: <https://www.w3.org/TR/wai-aria/>
 [Service Worker Cookbook]: <https://serviceworke.rs/>
 [here]: <https://github.com/sophistique-chat/project-5-Restaurant-Reviews-App-Stage1>
 [Stackoverflow]: <https://stackoverflow.com/>
